@@ -1,0 +1,8 @@
+reload-success: "&#33D9FFConfiguration reloaded successfully!"
+no-permission: "&#FF5555You don't have permission!"
+page-not-found: "&#FF5555Page not found. Max pages: &#33D9FF%max%"
+prev-page: "Back"
+next-page: "Next"
+prev-hover: "&#E0E0E0Go to previous page"
+next-hover: "&#E0E0E0Go to next page"
+hover-text: "&#33D9FFClick to Copy"

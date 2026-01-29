@@ -1,0 +1,20 @@
+name: IEmoji
+version: 1.0
+main: com.mrrezik.iEmoji.IEmoji
+api-version: 1.16
+authors: [MrRezik]
+description: Chat based emoji picker with clipboard support.
+
+commands:
+  emoji:
+    description: Opens the emoji list
+    usage: /emoji [page]
+    permission: iemoji.use
+
+permissions:
+  iemoji.use:
+    description: Allow usage of emoji command
+    default: true
+  iemoji.reload:
+    description: Allow reloading config
+    default: op
